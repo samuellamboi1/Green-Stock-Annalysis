@@ -15,5 +15,5 @@ The result of this project was a macro that contained information about tickdfs 
 Time Before(2017)
 ![Screenshot (8)](https://github.com/Mxxxse/Green-Stock-Analysis/assets/146729653/e74f8b03-4efc-40fa-9b48-b2b8a263a880)
 
-Time Before(20187)
+Time Before(2018)
 ![Screenshot (9)](https://github.com/Mxxxse/Green-Stock-Analysis/assets/146729653/89eb2c6f-4454-4692-a46e-3d53419c8618)
