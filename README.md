@@ -10,5 +10,6 @@ In this project and analyisis, we’ll edit, or refactor, the Stock Market Datas
 The purpose of this analysis is to refactor existing VBA code to improve its efficiency and execution time. The initial code was designed to analyze a limited dataset of stocks, but now the goal is to expand it to cover the entire stock market over the past few years. By looping through the data once and collecting the required information, we aim to enhance the code's performance, specifically when dealing with a larger number of stocks. You can find the Excel bookwork for responding to macros in the following
 ![analysis is to refactor existing VBA code](Mohamed_green_stocks4.xlsm)_
 ## Results
-
+The result of this project was a macro that contained information about tickdfs and the returm of tickers in 2017 and 2018.
 ![Screenshot (8)](https://github.com/Mxxxse/Green-Stock-Analysis/assets/146729653/e74f8b03-4efc-40fa-9b48-b2b8a263a880)
+![Screenshot (9)](https://github.com/Mxxxse/Green-Stock-Analysis/assets/146729653/89eb2c6f-4454-4692-a46e-3d53419c8618)
