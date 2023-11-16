@@ -17,3 +17,9 @@ Time Before(2017)
 
 Time Before(2018)
 ![Screenshot (9)](https://github.com/Mxxxse/Green-Stock-Analysis/assets/146729653/89eb2c6f-4454-4692-a46e-3d53419c8618)
+
+Time After(2017)
+![Screenshot (10)](https://github.com/Mxxxse/Green-Stock-Analysis/assets/146729653/aafe6ad2-a188-4195-96b4-42f45e591ede)
+
+Time After(2018)
+![Screenshot (11)](https://github.com/Mxxxse/Green-Stock-Analysis/assets/146729653/90f6a599-0f61-4bc5-a86a-5f822ecd2ee9)
