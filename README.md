@@ -24,7 +24,7 @@ Time After(2017)
 Time After(2018)
 ![Screenshot (11)](https://github.com/Mxxxse/Green-Stock-Analysis/assets/146729653/90f6a599-0f61-4bc5-a86a-5f822ecd2ee9)
 
-      | Before        | After         | 
+      |Year| Before   | After         | 
       | ------------- |:------------- | 
       |2018|  1.04    | 0.68          |
       |2017|  1.05    | 0.75          | 
