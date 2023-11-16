@@ -24,13 +24,18 @@ Time After(2017)
 Time After(2018)
 ![Screenshot (11)](https://github.com/Mxxxse/Green-Stock-Analysis/assets/146729653/90f6a599-0f61-4bc5-a86a-5f822ecd2ee9)
 
+      | Before        | After         | 
+      | ------------- |:------------- | 
+      |2018|  1.04     | 0.68         |
+      |2017|  1.05     | 0.75         | 
+     
 
 ## Summary 
 ### Results
 - With these Macros created we can clearly see the table with analysis for each year.
-- Steve can read the table lot easier due to conditional formatting.
+- Steve can read the table lot easier because of the conditional formatting.
 - Updated Macro's can be used to run the analysis for any year.
-- We refactored the codes to run faster in VBA so that if Steve has a larger dataset he can analyze it quickly.
+- We refactored the codes to run faster in VBA so that if Steve has a bigger dataset he can analyze it quickly.
 
 ### Advanatages of Refactoring codes.
 - Refactoring is a key part of the coding process. It just makes the code more efficient with fewer steps.
@@ -38,8 +43,8 @@ Time After(2018)
 - It looks much cleaner and helps the future user to understand and read it better.
 
 ### Disadvanatages of Refactoring codes.
-- Refactoring codes can be time-consuming.
-- It might be difficult for larger and more complicated codes to refactor.
-- It may sometimes alter the outcomes.
+- Refactoring codes can take alot of time.
+- It could be harder for larger and more complicated codes to refactor.
+- It may alter the outcomes.
 
 
