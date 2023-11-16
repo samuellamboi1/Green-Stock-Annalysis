@@ -11,24 +11,10 @@ The purpose of this analysis is to refactor existing VBA code to improve its eff
 ![analysis is to refactor existing VBA code](Mohamed_green_stocks4.xlsm)_
 ## Results
 The result of this project was a macro that contained information about tickdfs and the returm of tickers in 2017 and 2018.
-
-Time Before(2017)
-![Screenshot (8)](https://github.com/Mxxxse/Green-Stock-Analysis/assets/146729653/e74f8b03-4efc-40fa-9b48-b2b8a263a880)
-
-Time Before(2018)
-![Screenshot (9)](https://github.com/Mxxxse/Green-Stock-Analysis/assets/146729653/89eb2c6f-4454-4692-a46e-3d53419c8618)
-
-Time After(2017)
-![Screenshot (10)](https://github.com/Mxxxse/Green-Stock-Analysis/assets/146729653/aafe6ad2-a188-4195-96b4-42f45e591ede)
-
-Time After(2018)
-![Screenshot (11)](https://github.com/Mxxxse/Green-Stock-Analysis/assets/146729653/90f6a599-0f61-4bc5-a86a-5f822ecd2ee9)
-
-      |Year| Before   | After         | 
-      | ------------- |:------------- | 
-      |2018|  1.04    | 0.68          |
-      |2017|  1.05    | 0.75          | 
-     
+https://mail.google.com/mail/u/0?ui=2&ik=9c419b0b23&attid=0.4&permmsgid=msg-f:1782730848875666622&th=18bd8843015d5cbe&view=att&disp=safe&realattid=f_lp1a775s3
+https://mail.google.com/mail/u/0?ui=2&ik=9c419b0b23&attid=0.3&permmsgid=msg-f:1782730848875666622&th=18bd8843015d5cbe&view=att&disp=safe&realattid=f_lp1a74a72
+https://mail.google.com/mail/u/0?ui=2&ik=9c419b0b23&attid=0.2&permmsgid=msg-f:1782730848875666622&th=18bd8843015d5cbe&view=att&disp=safe&realattid=f_lp1a64k31
+     https://mail.google.com/mail/u/0?ui=2&ik=9c419b0b23&attid=0.1&permmsgid=msg-f:1782730848875666622&th=18bd8843015d5cbe&view=att&disp=safe&realattid=f_lp1a60sa0
 
 ## Summary 
 ### Results
